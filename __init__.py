@@ -58,3 +58,7 @@ from .menuBar.menuBar import CTkMenuBar as FTkMenuBar
 
 # CTkMessageBox | https://github.com/Akascape/CTkMessagebox | `pip install CTkMessageBox`
 from .messageBox.messageBox import CTkMessagebox as FTkMessageBox
+
+# CTkColorPicker | https://github.com/Akascape/CTkColorPicker | `pip install CTkColorPicker`
+from .colorPicker.colorPicker import AskColor as FTkAskColor
+from .colorPicker.colorPickerWidget import CTkColorPicker as FTkColorPicker

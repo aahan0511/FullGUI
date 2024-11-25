@@ -36,11 +36,15 @@ CustomTkinter is a python UI-library based on Tkinter, which provides new, moder
 
 > **AUTHOR**: [Tom Schimansky](https://github.com/TomSchimansky "Tom Schimansky on GitHub"). 
 
+> **INSTALLATION**: `pip install customtkinter`
+
 
 ### [CTkMenuBar](https://github.com/Akascape/CTkMenuBar "CTkMenuBar on GitHub")
 Modern menu bar widget library for customtkinter.
 
 > [!NOTE]
+> `CustomDropdownMenu` is renamed `FTkDropdownMenu` for FullGUI.
+> `CTkTitleMenu` is renamed `CTkTitleMenu` for FullGUI.
 > `CTkMenuBar` is renamed `FTkMenuBar` for FullGUI.
 
 > **DOCUMENTATION**: [CTkMenuBar README](https://github.com/Akascape/CTkMenuBar/blob/main/README.md "README for CTkMenuBar").
@@ -49,9 +53,11 @@ Modern menu bar widget library for customtkinter.
 
 > **AUTHOR**: [Akash Bora](https://github.com/Akascape "Akascape on GitHub").
 
+> **INSTALLATION**: `pip install CTkMenuBar`
+
 
 ### [CTkMessageBox](https://github.com/Akascape/CTkMessageBox "CTkMessageBox on GitHub")
-> A modern and fully customizable messagebox for CustomTkinter
+A modern and fully customizable messagebox for CustomTkinter.
 
 > [!NOTE]
 > `CTkMessageBox` is renamed `FTkMessageBox` for FullGUI.
@@ -61,3 +67,21 @@ Modern menu bar widget library for customtkinter.
 > **LICENSE**: [Creative Commons Zero v1.0 Universal License](https://github.com/Akascape/CTkMessagebox/blob/main/LICENSE "LICENSE on CTkMessageBox").
 
 > **AUTHOR**: [Akash Bora](https://github.com/Akascape "Akascape on GitHub").
+
+> **INSTALLATION**: `pip install CTkMessageBox`
+
+
+### [CTkColorPicker](https://github.com/Akascape/CTkColorPicker "CTkColorPicker on GitHub")
+A modern color picker made for customtkinter!
+
+> [!NOTE]
+> `CTkColorPicker` is renamed `FTkColorPicker` for FullGUI.
+> `AskColor` is renamed `FTkAskColor` for FullGUI.
+
+> **DOCUMENTATION**: [CTkColorPicker README](https://github.com/Akascape/CTkColorPicker/blob/main/README.md "README for CTkColorPicker").
+
+> **LICENSE**: [Creative Commons Zero v1.0 Universal License](https://github.com/Akascape/CTkColorPicker/blob/main/LICENSE "LICENSE on CTkColorPicker").
+
+> **AUTHOR**: [Akash Bora](https://github.com/Akascape "Akascape on GitHub").
+
+> **INSTALLATION**: `pip install CTkColorPicker`
