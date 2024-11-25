@@ -23,7 +23,7 @@ All widgets have their author mentioned at the bottom of their `__doc__`.
 
 # Repositories
 
-### [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter "CustomTkinter on GitHub")
+## [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter "CustomTkinter on GitHub")
 CustomTkinter is a python UI-library based on Tkinter, which provides new, modern and fully customizable widgets. They are created and used like normal Tkinter widgets and can also be used in combination with normal Tkinter elements. The widgets and the window colors either adapt to the system appearance or the manually set mode ('light', 'dark'), and all CustomTkinter widgets and windows support HighDPI scaling (Windows, macOS). With CustomTkinter you'll get a consistent and modern look across all desktop platforms (Windows, macOS, Linux).
 
 > [!IMPORTANT]
@@ -39,7 +39,7 @@ CustomTkinter is a python UI-library based on Tkinter, which provides new, moder
 > **INSTALLATION**: `pip install customtkinter`
 
 
-### [CTkMenuBar](https://github.com/Akascape/CTkMenuBar "CTkMenuBar on GitHub")
+## [CTkMenuBar](https://github.com/Akascape/CTkMenuBar "CTkMenuBar on GitHub")
 Modern menu bar widget library for customtkinter.
 
 > [!NOTE]
@@ -56,7 +56,7 @@ Modern menu bar widget library for customtkinter.
 > **INSTALLATION**: `pip install CTkMenuBar`
 
 
-### [CTkMessageBox](https://github.com/Akascape/CTkMessageBox "CTkMessageBox on GitHub")
+## [CTkMessageBox](https://github.com/Akascape/CTkMessageBox "CTkMessageBox on GitHub")
 A modern and fully customizable messagebox for CustomTkinter.
 
 > [!NOTE]
@@ -71,7 +71,7 @@ A modern and fully customizable messagebox for CustomTkinter.
 > **INSTALLATION**: `pip install CTkMessageBox`
 
 
-### [CTkColorPicker](https://github.com/Akascape/CTkColorPicker "CTkColorPicker on GitHub")
+## [CTkColorPicker](https://github.com/Akascape/CTkColorPicker "CTkColorPicker on GitHub")
 A modern color picker made for customtkinter!
 
 > [!NOTE]
@@ -85,3 +85,18 @@ A modern color picker made for customtkinter!
 > **AUTHOR**: [Akash Bora](https://github.com/Akascape "Akascape on GitHub").
 
 > **INSTALLATION**: `pip install CTkColorPicker`
+
+
+## [CTkTable](https://github.com/Akascape/CTkTable "CTkTable on GitHub")
+Here is a quick and simple table widget having all the basic features.
+
+> [!NOTE]
+> `CTkTable` is renamed `FTkTable` for FullGUI.
+
+> **DOCUMENTATION**: [CTkTable README](https://github.com/Akascape/CTkTable/blob/main/README.md "README for CTkTable").
+
+> **LICENSE**: [MIT License](https://github.com/Akascape/CTkTable/blob/main/LICENSE "LICENSE on CTkTable").
+
+> **AUTHOR**: [Akash Bora](https://github.com/Akascape "Akascape on GitHub").
+
+> **INSTALLATION**: `pip install CTkTable`
