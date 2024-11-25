@@ -50,3 +50,8 @@ from .customtkinter.functions import (
     set_ctk_parent_class as setCTkParentClass,
     deactivate_automatic_dpi_awareness as deactivateAutomaticDPIAwareness
 )
+
+# CTkMenuBar | https://github.com/Akascape/CTkMenuBar | `pip install CTkMenuBar`
+from .menuBar.dropdownMenu import CustomDropdownMenu as FTkDropdownMenu
+from .menuBar.titleMenu import CTkTitleMenu as FTkTitleMenu
+from .menuBar.menuBar import CTkMenuBar as FTkMenuBar
