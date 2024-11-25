@@ -65,3 +65,6 @@ from .colorPicker.colorPickerWidget import CTkColorPicker as FTkColorPicker
 
 # CTkTable | https://github.com/Akascape/CTkTable | `pip install CTkTable`
 from .table import CTkTable as FTkTable
+
+# CTkToolTip | https://github.com/Akascape/CTkToolTip | `pip install CTkToolTip`
+from .toolTip import CTkToolTip as FTkToolTip

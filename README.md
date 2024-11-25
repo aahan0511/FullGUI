@@ -100,3 +100,18 @@ Here is a quick and simple table widget having all the basic features.
 > **AUTHOR**: [Akash Bora](https://github.com/Akascape "Akascape on GitHub").
 
 > **INSTALLATION**: `pip install CTkTable`
+
+
+## [CTkToolTip](https://github.com/Akascape/CTkToolTip "CTkToolTip on GitHub")
+Small tooltip pop-up label for displaying details on customtkinter widgets.
+
+> [!NOTE]
+> `CTkToolTip` is renamed `FTkToolTip` for FullGUI.
+
+> **DOCUMENTATION**: [CTkToolTip README](https://github.com/Akascape/CTkToolTip/blob/main/README.md "README for CTkToolTip").
+
+> **LICENSE**: [Creative Commons Zero v1.0 Universal License](https://github.com/Akascape/CTkToolTip/blob/main/LICENSE "LICENSE on CTkToolTip").
+
+> **AUTHOR**: [Akash Bora](https://github.com/Akascape "Akascape on GitHub").
+
+> **INSTALLATION**: `pip install CTkToolTip`
