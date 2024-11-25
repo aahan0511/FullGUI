@@ -24,7 +24,7 @@ All widgets have their author mentioned at the bottom of their `__doc__`.
 # Repositories
 
 ### [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter "CustomTkinter on GitHub")
-> CustomTkinter is a python UI-library based on Tkinter, which provides new, modern and fully customizable widgets. They are created and used like normal Tkinter widgets and can also be used in combination with normal Tkinter elements. The widgets and the window colors either adapt to the system appearance or the manually set mode ('light', 'dark'), and all CustomTkinter widgets and windows support HighDPI scaling (Windows, macOS). With CustomTkinter you'll get a consistent and modern look across all desktop platforms (Windows, macOS, Linux).
+CustomTkinter is a python UI-library based on Tkinter, which provides new, modern and fully customizable widgets. They are created and used like normal Tkinter widgets and can also be used in combination with normal Tkinter elements. The widgets and the window colors either adapt to the system appearance or the manually set mode ('light', 'dark'), and all CustomTkinter widgets and windows support HighDPI scaling (Windows, macOS). With CustomTkinter you'll get a consistent and modern look across all desktop platforms (Windows, macOS, Linux).
 
 > [!IMPORTANT]
 > All widgets that start with *CTk*, have been changed to *FTk* for FullGUI.
@@ -38,7 +38,7 @@ All widgets have their author mentioned at the bottom of their `__doc__`.
 
 
 ### [CTkMenuBar](https://github.com/Akascape/CTkMenuBar "CTkMenuBar on GitHub")
-> Modern menu bar widget library for customtkinter.
+Modern menu bar widget library for customtkinter.
 
 > [!NOTE]
 > `CTkMenuBar` is renamed `FTkMenuBar` for FullGUI.
@@ -46,5 +46,18 @@ All widgets have their author mentioned at the bottom of their `__doc__`.
 > **DOCUMENTATION**: [CTkMenuBar README](https://github.com/Akascape/CTkMenuBar/blob/main/README.md "README for CTkMenuBar").
 
 > **LICENSE**: [Creative Commons Zero v1.0 Universal License](https://github.com/Akascape/CTkMenuBar/blob/main/LICENSE "LICENSE on CTkMenuBar").
+
+> **AUTHOR**: [Akash Bora](https://github.com/Akascape "Akascape on GitHub").
+
+
+### [CTkMessageBox](https://github.com/Akascape/CTkMessageBox "CTkMessageBox on GitHub")
+> A modern and fully customizable messagebox for CustomTkinter
+
+> [!NOTE]
+> `CTkMessageBox` is renamed `FTkMessageBox` for FullGUI.
+
+> **DOCUMENTATION**: [CTkMessageBox README](https://github.com/Akascape/CTkMessagebox/blob/main/README.md "README for CTkMessageBox").
+
+> **LICENSE**: [Creative Commons Zero v1.0 Universal License](https://github.com/Akascape/CTkMessagebox/blob/main/LICENSE "LICENSE on CTkMessageBox").
 
 > **AUTHOR**: [Akash Bora](https://github.com/Akascape "Akascape on GitHub").

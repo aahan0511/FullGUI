@@ -55,3 +55,6 @@ from .customtkinter.functions import (
 from .menuBar.dropdownMenu import CustomDropdownMenu as FTkDropdownMenu
 from .menuBar.titleMenu import CTkTitleMenu as FTkTitleMenu
 from .menuBar.menuBar import CTkMenuBar as FTkMenuBar
+
+# CTkMessageBox | https://github.com/Akascape/CTkMessagebox | `pip install CTkMessageBox`
+from .messageBox.messageBox import CTkMessagebox as FTkMessageBox
