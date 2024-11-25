@@ -1,3 +1,13 @@
+# TKinter
+from tkinter import (
+    Variable as Var, 
+    StringVar as StrVar, 
+    IntVar, 
+    DoubleVar as FloatVar, 
+    BooleanVar as BoolVar
+)
+from tkinter import filedialog as FTkFiledialog
+
 # CustomTkinter | https://github.com/TomSchimansky/CustomTkinter | `pip install customtkinter`
 from .customtkinter.windows.widgets.appearance_mode import AppearanceModeTracker
 from .customtkinter.windows.widgets.font import FontManager
