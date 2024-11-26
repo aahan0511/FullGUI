@@ -96,3 +96,6 @@ from .nodeSystem.node_types import (
 )
 from .nodeSystem.node_canvas import NodeCanvas as FTkNodeCanvas
 from .nodeSystem.node_menu import NodeMenu as FTkNodeMenu
+
+# CTkRadarChart | https://github.com/Akascape/CTkRadarChart
+from .radarChart import CTkRadarChart as FTkRadarChart

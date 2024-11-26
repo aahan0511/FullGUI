@@ -22,7 +22,7 @@ Some methods have used PascalCase instead of Snake_case. For eg. `this_is_a_meth
 All widgets have their author mentioned at the bottom of their `__doc__`.
 
 # Contents
-- [Status and Note](#status-and-notes)
+- [Status and Notes](#status-and-notes)
 - [Dependencies](#dependencies)
 - [Authors](#authors)
     - [Tom Schimansky | TomSchimansky](#tom-schimansky)
@@ -270,3 +270,18 @@ Advanced Node System (DAG) in tkinter python!
 > **AUTHOR**: [Akash Bora](https://github.com/Akascape "Akascape on GitHub").
 
 > **INSTALLATION**: `pip install tknodesystem`
+
+
+## [CTkRadarChart](https://github.com/Akascape/CTkRadarChart "CTkRadarChart on GitHub")
+A simple widget for customtkinter to display radar chart, made with tkinter canvas. Fully custimasable widget, with resizability and theme colors.
+
+> [!NOTE]
+> `CTkRadarChart` is renamed as `FTkRadarChart` for FullGUI.
+
+> **DOCUMENTATION**: [CTkRadarChart README](https://github.com/Akascape/CTkRadarChart/blob/main/README.md "README for CTkRadarChart").
+
+> **LICENSE**: [Creative Commons Zero v1.0 Universal License](https://github.com/Akascape/CTkRadarChart/blob/main/LICENSE "LICENSE on CTkRadarChart").
+
+> **AUTHOR**: [Akash Bora](https://github.com/Akascape "Akascape on GitHub").
+
+> **INSTALLATION**: [Installation Info](https://github.com/Akascape/CTkRadarChart?tab=readme-ov-file#installation "Installation Info on CTkRadarChart")
