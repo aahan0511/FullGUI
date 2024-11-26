@@ -75,3 +75,7 @@ from .scrollableDropdown.scrollableDropdownFrame import CTkScrollableDropdownFra
 
 # CTkRangeSlider | https://github.com/Akascape/CTkRangeSlider
 from .rangeSlider import CTkRangeSlider as FTkRangeSlider
+
+# CTkPopupKeyboard | https://github.com/Akascape/CTkPopupKeyboard
+from .popupKeyboard.popupKeyboard import PopupKeyboard as FTkPopupKeyboard
+from .popupKeyboard.popupNumpad import PopupNumpad as FTkPopupNumpad

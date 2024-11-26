@@ -150,3 +150,19 @@ A range slider widget made for customtkinter.
 > **AUTHOR**: [Akash Bora](https://github.com/Akascape "Akascape on GitHub").
 
 > **INSTALLATION**: [Installation Info](https://github.com/Akascape/CTkRangeSlider?tab=readme-ov-file#installation "Installation Info on CTkRangeSlider")
+
+
+## [CTkPopupKeyboard](https://github.com/Akascape/CTkPopupKeyboard "CTkPopupKeyboard on GitHub")
+On-Screen Keyboard/Numpad widget for customtkinter entries and textbox.
+
+> [!NOTE]
+> `PopupKeyboard` is renamed `FTkPopupKeyboard` for FullGUI.
+> `PopupNumpad` is renamed `FTkPopupNumpad` for FullGUI.
+
+> **DOCUMENTATION**: [CTkPopupKeyboard README](https://github.com/Akascape/CTkPopupKeyboard/blob/main/README.md "README for CTkPopupKeyboard").
+
+> **LICENSE**: [MIT License](https://github.com/Akascape/CTkPopupKeyboard/blob/main/LICENSE "LICENSE on CTkPopupKeyboard").
+
+> **AUTHOR**: [Akash Bora](https://github.com/Akascape "Akascape on GitHub").
+
+> **INSTALLATION**: [Installation Info](https://github.com/Akascape/CTkPopupKeyboard?tab=readme-ov-file#installation "Installation Info on CTkPopupKeyboard")
