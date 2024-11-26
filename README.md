@@ -22,7 +22,7 @@ Some methods have used PascalCase instead of Snake_case. For eg. `this_is_a_meth
 All widgets have their author mentioned at the bottom of their `__doc__`.
 
 # Contents
-- [Status](#status)
+- [Status and Note](#status-and-notes)
 - [Dependencies](#dependencies)
 - [Authors](#authors)
     - [Tom Schimansky | TomSchimansky](#tom-schimansky)
@@ -40,9 +40,13 @@ All widgets have their author mentioned at the bottom of their `__doc__`.
     - [TkDial](#tkdial)
     - [TkNodeSystem](#tknodesystem)
 
-# Status
+# Status and Notes
+
 > [!WARNING]
 > This project is still in developent. The repositories added work **perfectly** [refering to how the should], but many repositories have still not been added.
+
+> [!NOTE]
+> The might be written `TheGreatLegend` as the conributor in some places, but this is a bug with GitHub desktop, and it takes my old username. Please note it should be `aahan0511`
 
 # [Dependencies](https://github.com/aahan0511/FullGUI/network/dependencies)
 ```bash
