@@ -99,3 +99,6 @@ from .nodeSystem.node_menu import NodeMenu as FTkNodeMenu
 
 # CTkRadarChart | https://github.com/Akascape/CTkRadarChart
 from .radarChart import CTkRadarChart as FTkRadarChart
+
+# CTkPieChart | https://github.com/Akascape/CTkPieChart
+from .pieChart import CTkPieChart as FTkPieChart

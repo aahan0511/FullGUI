@@ -285,3 +285,18 @@ A simple widget for customtkinter to display radar chart, made with tkinter canv
 > **AUTHOR**: [Akash Bora](https://github.com/Akascape "Akascape on GitHub").
 
 > **INSTALLATION**: [Installation Info](https://github.com/Akascape/CTkRadarChart?tab=readme-ov-file#installation "Installation Info on CTkRadarChart")
+
+
+## [CTkPieChart](https://github.com/Akascape/CTkPieChart "CTkPieChart on GitHub")
+Another piece in the puzzle, pie chart widget for customtkinter, simple and easy to visualize any data in pie chart form.
+
+> [!NOTE]
+> `CTkPieChart` is renamed as `FTkPieChart` for FullGUI.
+
+> **DOCUMENTATION**: [CTkPieChart README](https://github.com/Akascape/CTkPieChart/blob/main/README.md "README for CTkPieChart").
+
+> **LICENSE**: [MIT License](https://github.com/Akascape/CTkPieChart/blob/main/LICENSE "LICENSE on CTkPieChart").
+
+> **AUTHOR**: [Akash Bora](https://github.com/Akascape "Akascape on GitHub").
+
+> **INSTALLATION**: [Installation Info](https://github.com/Akascape/CTkPieChart?tab=readme-ov-file#installation "Installation Info on CTkPieChart")
