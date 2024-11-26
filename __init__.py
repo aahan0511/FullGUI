@@ -86,3 +86,13 @@ from .dial.imageKnob import ImageKnob as FTkImageKnob
 from .dial.scrollKnob import ScrollKnob as FTkScrollKnob 
 from .dial.jogWheel import Jogwheel as FTkJogwheel 
 from .dial.meter import Meter as FTkMeter 
+
+# TkNodeSystem | https://github.com/Akascape/TkNodeSystem | `pip install tknodesystem`
+from .nodeSystem.node_types import (
+    NodeValue as FTkNodeValue, 
+    NodeOperation as FTkNodeOperation, 
+    NodeCompile as FTkNodeCompile, 
+    NodeSocket as FTkNodeSocket
+)
+from .nodeSystem.node_canvas import NodeCanvas as FTkNodeCanvas
+from .nodeSystem.node_menu import NodeMenu as FTkNodeMenu

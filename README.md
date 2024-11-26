@@ -37,6 +37,7 @@ All widgets have their author mentioned at the bottom of their `__doc__`.
     - [CTkRangeSlider](#ctkrangeslider)
     - [CTkPopupKeyboard](#ctkpopupkeyboard)
     - [TkDial](#tkdial)
+    - [TkNodeSystem](#tknodesystem)
 
 # Status
 > [!WARNING]
@@ -48,6 +49,7 @@ All widgets have their author mentioned at the bottom of their `__doc__`.
 > Python, C, Desktop UI, Machine Learning, RaspberryPi, Robotics, Arduino
 
 **Author Of**: [`CustomTkinter`](https://github.com/TomSchimansky/CustomTkinter)
+
 
 ## [Akash Bora](https://github.com/Akascape "Akascape")
 > Loves to make digital art, video effects, useful tools, UI designs, and experimental fun art! Follow me for more awesome projects!
@@ -62,6 +64,7 @@ All widgets have their author mentioned at the bottom of their `__doc__`.
     - [`CTkRangeSlider`](https://github.com/Akascape/CTkRangeSlider)
     - [`CTkPopupKeyboard`](https://github.com/Akascape/CTkPopupKeyboard)
     - [`TkDial`](https://github.com/Akascape/TkDial)
+    - [`TkNodeSystem`](https://github.com/Akascape/TkNodeSystem)
 
 # Repositories
 
@@ -85,9 +88,9 @@ CustomTkinter is a python UI-library based on Tkinter, which provides new, moder
 Modern menu bar widget library for customtkinter.
 
 > [!NOTE]
-> `CustomDropdownMenu` is renamed `FTkDropdownMenu` for FullGUI.
-> `CTkTitleMenu` is renamed `CTkTitleMenu` for FullGUI.
-> `CTkMenuBar` is renamed `FTkMenuBar` for FullGUI.
+> - `CustomDropdownMenu` is renamed `FTkDropdownMenu` for FullGUI.
+> - `CTkTitleMenu` is renamed `CTkTitleMenu` for FullGUI.
+> - `CTkMenuBar` is renamed `FTkMenuBar` for FullGUI.
 
 > **DOCUMENTATION**: [CTkMenuBar README](https://github.com/Akascape/CTkMenuBar/blob/main/README.md "README for CTkMenuBar").
 
@@ -117,8 +120,8 @@ A modern and fully customizable messagebox for CustomTkinter.
 A modern color picker made for customtkinter!
 
 > [!NOTE]
-> `CTkColorPicker` is renamed `FTkColorPicker` for FullGUI.
-> `AskColor` is renamed `FTkAskColor` for FullGUI.
+> - `CTkColorPicker` is renamed `FTkColorPicker` for FullGUI.
+> - `AskColor` is renamed `FTkAskColor` for FullGUI.
 
 > **DOCUMENTATION**: [CTkColorPicker README](https://github.com/Akascape/CTkColorPicker/blob/main/README.md "README for CTkColorPicker").
 
@@ -163,8 +166,8 @@ Small tooltip pop-up label for displaying details on customtkinter widgets.
 Replace the old looking tkMenu and add this new scrollable dropdown menu to customtkinter optionmenu, combobox, entries, buttons etc...
 
 > [!NOTE]
-> `CTkScrollableDropdown` is renamed `FTkScrollableDropdown` for FullGUI.
-> `CTkScrollableDropdownFrame` is renamed `FTkScrollableDropdownFrame` for FullGUI.
+> - `CTkScrollableDropdown` is renamed `FTkScrollableDropdown` for FullGUI.
+> - `CTkScrollableDropdownFrame` is renamed `FTkScrollableDropdownFrame` for FullGUI.
 
 > **DOCUMENTATION**: [CTkScrollableDropdown README](https://github.com/Akascape/CTkScrollableDropdown/blob/main/README.md "README for CTkScrollableDropdown").
 
@@ -194,8 +197,8 @@ A range slider widget made for customtkinter.
 On-Screen Keyboard/Numpad widget for customtkinter entries and textbox.
 
 > [!NOTE]
-> `PopupKeyboard` is renamed `FTkPopupKeyboard` for FullGUI.
-> `PopupNumpad` is renamed `FTkPopupNumpad` for FullGUI.
+> - `PopupKeyboard` is renamed `FTkPopupKeyboard` for FullGUI.
+> - `PopupNumpad` is renamed `FTkPopupNumpad` for FullGUI.
 
 > **DOCUMENTATION**: [CTkPopupKeyboard README](https://github.com/Akascape/CTkPopupKeyboard/blob/main/README.md "README for CTkPopupKeyboard").
 
@@ -210,11 +213,11 @@ On-Screen Keyboard/Numpad widget for customtkinter entries and textbox.
 This is a library containing some circular rotatory dial-knob widgets for Tkinter. It can be used in place of normal sliders and scale.
 
 > [!NOTE]
-> `Dial` is renamed `FTkDial` for FullGUI.
-> `ImageKnob` is renamed `FTkImageKnob` for FullGUI.
-> `ScrollKnob` is renamed `FTkScrollKnob` for FullGUI.
-> `Jogwheel` is renamed `FTkJogwheel` for FullGUI.
-> `Meter` is renamed `FTkMeter` for FullGUI.
+> - `Dial` is renamed `FTkDial` for FullGUI.
+> - `ImageKnob` is renamed `FTkImageKnob` for FullGUI.
+> - `ScrollKnob` is renamed `FTkScrollKnob` for FullGUI.
+> - `Jogwheel` is renamed `FTkJogwheel` for FullGUI.
+> - `Meter` is renamed `FTkMeter` for FullGUI.
 
 > **DOCUMENTATION**: [TkDial README](https://github.com/Akascape/TkDial/blob/main/README.md "README for TkDial").
 
@@ -224,3 +227,22 @@ This is a library containing some circular rotatory dial-knob widgets for Tkinte
 
 > **INSTALLATION**: `pip install tkdial`
 
+
+## [TkNodeSystem](https://github.com/Akascape/TkNodeSystem "TkNodeSystem on GitHub")
+Advanced Node System (DAG) in tkinter python!
+
+> [!NOTE]
+> - `NodeValue` is renamed as `FTkNodeValue` for FullGUI. 
+> - `NodeOperation` is renamed as `FTkNodeOperation` for FullGUI.
+> - `NodeCompile` is renamed as `FTkNodeCompile` for FullGUI.
+> - `NodeSocket` is renamed as `FTkNodeSocket` for FullGUI.
+> - `NodeCanvas` is renamed as `FTkNodeCanvas` for FullGUI.
+> - `NodeMenu` is renamed as `FTkNodeMenu` for FullGUI.
+
+> **DOCUMENTATION**: [TkNodeSystem README](https://github.com/Akascape/TkNodeSystem/blob/main/README.md "README for TkNodeSystem").
+
+> **LICENSE**: [MIT License](https://github.com/Akascape/TkNodeSystem/blob/main/LICENSE "LICENSE on TkNodeSystem").
+
+> **AUTHOR**: [Akash Bora](https://github.com/Akascape "Akascape on GitHub").
+
+> **INSTALLATION**: `pip install tknodesystem`
