@@ -114,3 +114,6 @@ from .mapview.utility_functions import (
     decimal_to_osm as decimalToOSM,
     osm_to_decimal as OSMtoDecimal
 )
+
+# tkVideoPlayer | https://github.com/PaulleDemon/tkVideoPlayer
+from .videoPlayer import TkinterVideo as FTkVideo

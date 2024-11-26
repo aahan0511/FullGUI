@@ -27,6 +27,7 @@ All widgets have their author mentioned at the bottom of their `__doc__`.
 - [Authors](#authors)
     - [Tom Schimansky | TomSchimansky](#tom-schimansky)
     - [Akash Bora | Akascape](#akash-bora)
+    - [Art/Paul | PaulleDemon](#artpaul)
 - [Repositories](#repositories)
     - [CustomTkinter](#customtkinter)
     - [CTkMenuBar](#ctkmenubar)
@@ -96,6 +97,11 @@ pip install -r requirements.txt
 - [`TkNodeSystem`](https://github.com/Akascape/TkNodeSystem)
 - [`CTkRadarChart`](https://github.com/Akascape/CTkRadarChart)
 - [`CTkPieChart`](https://github.com/Akascape/CTkPieChart)
+
+## [Art/Paul](https://github.com/PaulleDemon "PaulleDemon")
+> I am Paul, I write open-source for everyone
+
+**Author Of**: [`tkVideoPlayer`](https://github.com/PaulleDemon/tkVideoPlayer)
 
 # Repositories
 
@@ -323,3 +329,18 @@ TkinterMapView is a tile based interactive map renderer widget for the python Tk
 > **AUTHOR**: [Tom Schimansky](https://github.com/TomSchimansky "Tom Schimansky on GitHub"). 
 
 > **INSTALLATION**: `pip3 install tkintermapview`
+
+
+## [tkVideoPlayer](https://github.com/PaulleDemon/tkVideoPlayer  "tkVideoPlayer on GitHub")
+This is a simple library to play video files in tkinter. This library also provides the ability to play, pause, skip and seek to specific timestamps.
+
+> [!NOTE]
+> `TkinterVideo` is renamed `FTkVideo` for FullGUI.
+
+> **DOCUMENTATION**: [tkVideoPlayer README](https://github.com/PaulleDemon/tkVideoPlayer/blob/master/Readme.md "README for tkVideoPlayer").
+
+> **LICENSE**: [MIT License](https://github.com/PaulleDemon/tkVideoPlayer/blob/master/LICENSE "LICENSE on tkVideoPlayer").
+
+> **AUTHOR**: [Art/Paul](https://github.com/PaulleDemon "PaulleDemon on GitHub"). 
+
+> **INSTALLATION**: `pip install tkvideoplayer`
