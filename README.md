@@ -33,6 +33,7 @@ All widgets have their author mentioned at the bottom of their `__doc__`.
     - [CTkScrollableDropdown](#ctkscrollabledropdown)
     - [CTkRangeSlider](#ctkrangeslider)
     - [CTkPopupKeyboard](#ctkpopupkeyboard)
+    - [TkDial](#tkdial)
 
 # Status
 > [!WARNING]
@@ -179,3 +180,23 @@ On-Screen Keyboard/Numpad widget for customtkinter entries and textbox.
 > **AUTHOR**: [Akash Bora](https://github.com/Akascape "Akascape on GitHub").
 
 > **INSTALLATION**: [Installation Info](https://github.com/Akascape/CTkPopupKeyboard?tab=readme-ov-file#installation "Installation Info on CTkPopupKeyboard")
+
+
+## [TkDial](https://github.com/Akascape/TkDial "TkDial on GitHub")
+This is a library containing some circular rotatory dial-knob widgets for Tkinter. It can be used in place of normal sliders and scale.
+
+> [!NOTE]
+> `Dial` is renamed `FTkDial` for FullGUI.
+> `ImageKnob` is renamed `FTkImageKnob` for FullGUI.
+> `ScrollKnob` is renamed `FTkScrollKnob` for FullGUI.
+> `Jogwheel` is renamed `FTkJogwheel` for FullGUI.
+> `Meter` is renamed `FTkMeter` for FullGUI.
+
+> **DOCUMENTATION**: [TkDial README](https://github.com/Akascape/TkDial/blob/main/README.md "README for TkDial").
+
+> **LICENSE**: [Creative Commons Zero v1.0 Universal License](https://github.com/Akascape/TkDial/blob/main/LICENSE "LICENSE on TkDial").
+
+> **AUTHOR**: [Akash Bora](https://github.com/Akascape "Akascape on GitHub").
+
+> **INSTALLATION**: `pip install tkdial`
+

@@ -79,3 +79,10 @@ from .rangeSlider import CTkRangeSlider as FTkRangeSlider
 # CTkPopupKeyboard | https://github.com/Akascape/CTkPopupKeyboard
 from .popupKeyboard.popupKeyboard import PopupKeyboard as FTkPopupKeyboard
 from .popupKeyboard.popupNumpad import PopupNumpad as FTkPopupNumpad
+
+# TkDial | https://github.com/Akascape/TkDial | `pip install TkDial`
+from .dial.dial import Dial as FTkDial
+from .dial.imageKnob import ImageKnob as FTkImageKnob 
+from .dial.scrollKnob import ScrollKnob as FTkScrollKnob 
+from .dial.jogWheel import Jogwheel as FTkJogwheel 
+from .dial.meter import Meter as FTkMeter 
