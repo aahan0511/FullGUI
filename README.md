@@ -43,7 +43,7 @@ All widgets have their author mentioned at the bottom of their `__doc__`.
 > [!WARNING]
 > This project is still in developent. The repositories added work **perfectly** [refering to how the should], but many repositories have still not been added.
 
-# Requirements
+# [Dependencies](https://github.com/aahan0511/FullGUI/network/dependencies)
 ```bash
 pip install -r requirements.txt
 ```
