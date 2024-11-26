@@ -21,6 +21,10 @@ Some methods have used PascalCase instead of Snake_case. For eg. `this_is_a_meth
 
 All widgets have their author mentioned at the bottom of their `__doc__`.
 
+# Status
+> [!WARNING]
+> This project is still in developent. The repositories added work **perfectly** [refering to how the should], but many repositories have still not been added.
+
 # Repositories
 
 ## [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter "CustomTkinter on GitHub")
