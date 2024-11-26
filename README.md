@@ -115,3 +115,19 @@ Small tooltip pop-up label for displaying details on customtkinter widgets.
 > **AUTHOR**: [Akash Bora](https://github.com/Akascape "Akascape on GitHub").
 
 > **INSTALLATION**: `pip install CTkToolTip`
+
+
+## [CTkScrollableDropdown](https://github.com/Akascape/CTkScrollableDropdown "CTkScrollableDropdown on GitHub")
+Replace the old looking tkMenu and add this new scrollable dropdown menu to customtkinter optionmenu, combobox, entries, buttons etc...
+
+> [!NOTE]
+> `CTkScrollableDropdown` is renamed `FTkScrollableDropdown` for FullGUI.
+> `CTkScrollableDropdownFrame` is renamed `FTkScrollableDropdownFrame` for FullGUI.
+
+> **DOCUMENTATION**: [CTkScrollableDropdown README](https://github.com/Akascape/CTkScrollableDropdown/blob/main/README.md "README for CTkScrollableDropdown").
+
+> **LICENSE**: [MIT License](https://github.com/Akascape/CTkScrollableDropdown/blob/main/LICENSE "LICENSE on CTkScrollableDropdown").
+
+> **AUTHOR**: [Akash Bora](https://github.com/Akascape "Akascape on GitHub").
+
+> **INSTALLATION**: [Installation Info](https://github.com/Akascape/CTkScrollableDropdown?tab=readme-ov-file#installation "Installation Info on CTkScrollableDropdown")

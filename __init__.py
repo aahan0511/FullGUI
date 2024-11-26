@@ -68,3 +68,7 @@ from .table import CTkTable as FTkTable
 
 # CTkToolTip | https://github.com/Akascape/CTkToolTip | `pip install CTkToolTip`
 from .toolTip import CTkToolTip as FTkToolTip
+
+# CTkScrollableDropdown | https://github.com/Akascape/CTkScrollableDropdown
+from .scrollableDropdown.scrollableDropdown import CTkScrollableDropdown as FTkScrollableDropdown
+from .scrollableDropdown.scrollableDropdownFrame import CTkScrollableDropdownFrame as FTkScrollableDropdownFrame
