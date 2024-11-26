@@ -23,6 +23,7 @@ All widgets have their author mentioned at the bottom of their `__doc__`.
 
 # Contents
 - [Status](#status)
+- [Dependencies](#dependencies)
 - [Authors](#authors)
     - [Tom Schimansky | TomSchimansky](#tom-schimansky)
     - [Akash Bora | Akascape](#akash-bora)
