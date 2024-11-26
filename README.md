@@ -39,6 +39,9 @@ All widgets have their author mentioned at the bottom of their `__doc__`.
     - [CTkPopupKeyboard](#ctkpopupkeyboard)
     - [TkDial](#tkdial)
     - [TkNodeSystem](#tknodesystem)
+    - [CTkRadarChart](#ctkradarchart)
+    - [CTkPieChart](#ctkpiechart)
+    - [TkinterMapView](#tkintermapview)
 
 # Status and Notes
 
@@ -73,7 +76,9 @@ pip install -r requirements.txt
 ## [Tom Schimansky](https://github.com/TomSchimansky "TomSchimansky")
 > Python, C, Desktop UI, Machine Learning, RaspberryPi, Robotics, Arduino
 
-**Author Of**: [`CustomTkinter`](https://github.com/TomSchimansky/CustomTkinter)
+**Author Of**: 
+    - [`CustomTkinter`](https://github.com/TomSchimansky/CustomTkinter)
+    - [`TkinterMapView`](https://github.com/TomSchimansky/TkinterMapView)
 
 ## [Akash Bora](https://github.com/Akascape "Akascape")
 > Loves to make digital art, video effects, useful tools, UI designs, and experimental fun art! Follow me for more awesome projects!
@@ -89,6 +94,8 @@ pip install -r requirements.txt
     - [`CTkPopupKeyboard`](https://github.com/Akascape/CTkPopupKeyboard)
     - [`TkDial`](https://github.com/Akascape/TkDial)
     - [`TkNodeSystem`](https://github.com/Akascape/TkNodeSystem)
+    - [`CTkRadarChart`](https://github.com/Akascape/CTkRadarChart)
+    - [`CTkPieChart`](https://github.com/Akascape/CTkPieChart)
 
 # Repositories
 
@@ -300,3 +307,19 @@ Another piece in the puzzle, pie chart widget for customtkinter, simple and easy
 > **AUTHOR**: [Akash Bora](https://github.com/Akascape "Akascape on GitHub").
 
 > **INSTALLATION**: [Installation Info](https://github.com/Akascape/CTkPieChart?tab=readme-ov-file#installation "Installation Info on CTkPieChart")
+
+
+## [TkinterMapView](https://github.com/TomSchimansky/TkinterMapView  "TkinterMapView  on GitHub")
+TkinterMapView is a tile based interactive map renderer widget for the python Tkinter library. By default, it displays the OpenStreetMap map, but you can change the tile server to whatever you like, and it also supports a second tile server for overlays like OpenSeaMap. You can set the current focus of the widget by a position or address, and place markers or a path on the map.
+
+> [!NOTE]
+> `TkinterMapView` is renamed `FTkMapView` for FullGUI.
+> `OfflineLoader` is renamed `FTkOfflineLoader` for FullGUI
+
+> **DOCUMENTATION**: [TkinterMapView README](https://github.com/TomSchimansky/TkinterMapView/blob/main/README.md "README for TkinterMapView").
+
+> **LICENSE**: [Creative Commons Zero v1.0 Universal License](https://github.com/TomSchimansky/TkinterMapView/blob/main/LICENSE.txt "LICENSE on TkinterMapView").
+
+> **AUTHOR**: [Tom Schimansky](https://github.com/TomSchimansky "Tom Schimansky on GitHub"). 
+
+> **INSTALLATION**: `pip3 install tkintermapview`

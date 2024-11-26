@@ -102,3 +102,15 @@ from .radarChart import CTkRadarChart as FTkRadarChart
 
 # CTkPieChart | https://github.com/Akascape/CTkPieChart
 from .pieChart import CTkPieChart as FTkPieChart
+
+# TkinterMapView | https://github.com/TomSchimansky/TkinterMapView | pip install tkintermapview
+from .mapview.map_widget import TkinterMapView as FTkMapView
+from .mapview.offline_loading import OfflineLoader as FTkOfflineLoader
+from .mapview.utility_functions import (
+    convert_coordinates_to_address as convertCoordinatesToAddress,
+    convert_coordinates_to_country as convertCoordinatesToCountry,
+    convert_coordinates_to_city as convertCoordinatesToCity,
+    convert_address_to_coordinates as convertAddressToCordinates,
+    decimal_to_osm as decimalToOSM,
+    osm_to_decimal as OSMtoDecimal
+)
