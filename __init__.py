@@ -115,5 +115,11 @@ from .mapview.utility_functions import (
     osm_to_decimal as OSMtoDecimal
 )
 
-# tkVideoPlayer | https://github.com/PaulleDemon/tkVideoPlayer
+# tkVideoPlayer | https://github.com/PaulleDemon/tkVideoPlayer | `pip install tkvideoplayer`
 from .videoPlayer import TkinterVideo as FTkVideo
+
+# CTkDataVisualizingWidgets | https://github.com/ZikPin/CTkDataVisualizingWidgets
+from .dataVisualizingWidgets.calender import CTkCalendar as FTkCalendar
+from .dataVisualizingWidgets.graph import CTkGraph as FTkGraph
+from .dataVisualizingWidgets.chart import CTkChart as FTkChart
+from .dataVisualizingWidgets.calendarStat import CTkCalendarStat as FTkCalendarStat

@@ -28,6 +28,7 @@ All widgets have their author mentioned at the bottom of their `__doc__`.
     - [Tom Schimansky | TomSchimansky](#tom-schimansky)
     - [Akash Bora | Akascape](#akash-bora)
     - [Art/Paul | PaulleDemon](#artpaul)
+    - [Zik Pin | ZikPin](#zik-pin)
 - [Repositories](#repositories)
     - [CustomTkinter](#customtkinter)
     - [CTkMenuBar](#ctkmenubar)
@@ -43,6 +44,8 @@ All widgets have their author mentioned at the bottom of their `__doc__`.
     - [CTkRadarChart](#ctkradarchart)
     - [CTkPieChart](#ctkpiechart)
     - [TkinterMapView](#tkintermapview)
+    - [tkVideoPlayer](#tkvideoplayer)
+    - [CTkDataVisualizingWidgets](#ctkdatavisualizingwidgets)
 
 # Status and Notes
 
@@ -102,6 +105,11 @@ pip install -r requirements.txt
 > I am Paul, I write open-source for everyone
 
 **Author Of**: [`tkVideoPlayer`](https://github.com/PaulleDemon/tkVideoPlayer)
+
+## [Zik Pin](https://github.com/ZikPin "ZikPin")
+> I am just a regular guy
+
+**Author Of**: [`CTkDataVisualizingWidgets`](https://github.com/ZikPin/CTkDataVisualizingWidgets)
 
 # Repositories
 
@@ -315,7 +323,7 @@ Another piece in the puzzle, pie chart widget for customtkinter, simple and easy
 > **INSTALLATION**: [Installation Info](https://github.com/Akascape/CTkPieChart?tab=readme-ov-file#installation "Installation Info on CTkPieChart")
 
 
-## [TkinterMapView](https://github.com/TomSchimansky/TkinterMapView  "TkinterMapView  on GitHub")
+## [TkinterMapView](https://github.com/TomSchimansky/TkinterMapView "TkinterMapView  on GitHub")
 TkinterMapView is a tile based interactive map renderer widget for the python Tkinter library. By default, it displays the OpenStreetMap map, but you can change the tile server to whatever you like, and it also supports a second tile server for overlays like OpenSeaMap. You can set the current focus of the widget by a position or address, and place markers or a path on the map.
 
 > [!NOTE]
@@ -331,7 +339,7 @@ TkinterMapView is a tile based interactive map renderer widget for the python Tk
 > **INSTALLATION**: `pip3 install tkintermapview`
 
 
-## [tkVideoPlayer](https://github.com/PaulleDemon/tkVideoPlayer  "tkVideoPlayer on GitHub")
+## [tkVideoPlayer](https://github.com/PaulleDemon/tkVideoPlayer "tkVideoPlayer on GitHub")
 This is a simple library to play video files in tkinter. This library also provides the ability to play, pause, skip and seek to specific timestamps.
 
 > [!NOTE]
@@ -344,3 +352,21 @@ This is a simple library to play video files in tkinter. This library also provi
 > **AUTHOR**: [Art/Paul](https://github.com/PaulleDemon "PaulleDemon on GitHub"). 
 
 > **INSTALLATION**: `pip install tkvideoplayer`
+
+
+## [CTkDataVisualizingWidgets](https://github.com/ZikPin/CTkDataVisualizingWidgets "CTkDataVisualizingWidgets on GitHub")
+Custom data visualizing widgets like calendar, graph and chart.
+
+> [!NOTE]
+> `CTkCalendar` is renamed `FTkCalendar` for FullGUI.
+> `CTkGraph` is renamed `FTkGraph` for FullGUI.
+> `CTkChart` is renamed `FTkChart` for FullGUI.
+> `CTkCalendarStat` is renamed `FTkCalendarStat` for FullGUI.
+
+> **DOCUMENTATION**: [CTkDataVisualizingWidgets README](https://github.com/ZikPin/CTkDataVisualizingWidgets/blob/main/README.md "README for CTkDataVisualizingWidgets").
+
+> **LICENSE**: None
+
+> **AUTHOR**: [Zik Pin](https://github.com/ZikPin "ZikPin on GitHub")
+
+> **INSTALLATION**: [Files](https://github.com/ZikPin/CTkDataVisualizingWidgets/tree/main/CTkDataVisualizingWidgets "Files for CTkDataVisualizingWidgets")
