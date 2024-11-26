@@ -23,6 +23,9 @@ All widgets have their author mentioned at the bottom of their `__doc__`.
 
 # Contents
 - [Status](#status)
+- [Authors](#authors)
+    - [Tom Schimansky | TomSchimansky](#tom-schimansky)
+    - [Akash Bora | Akascape](#akash-bora)
 - [Repositories](#repositories)
     - [CustomTkinter](#customtkinter)
     - [CTkMenuBar](#ctkmenubar)
@@ -38,6 +41,27 @@ All widgets have their author mentioned at the bottom of their `__doc__`.
 # Status
 > [!WARNING]
 > This project is still in developent. The repositories added work **perfectly** [refering to how the should], but many repositories have still not been added.
+
+# Authors
+
+## [Tom Schimansky](https://github.com/TomSchimansky "TomSchimansky")
+> Python, C, Desktop UI, Machine Learning, RaspberryPi, Robotics, Arduino
+
+**Author Of**: [`CustomTkinter`](https://github.com/TomSchimansky/CustomTkinter)
+
+## [Akash Bora](https://github.com/Akascape "Akascape")
+> Loves to make digital art, video effects, useful tools, UI designs, and experimental fun art! Follow me for more awesome projects!
+
+**Author Of**:
+    - [`CTkMenuBar`](https://github.com/Akascape/CTkMenuBar)
+    - [`CTkMessageBox`](https://github.com/Akascape/CTkMessageBox)
+    - [`CTkColorPicker`](https://github.com/Akascape/CTkColorPicker)
+    - [`CTkTable`](https://github.com/Akascape/CTkTable)
+    - [`CTkToolTip`](https://github.com/Akascape/CTkToolTip)
+    - [`CTkScrollableDropdown`](https://github.com/Akascape/CTkScrollableDropdown)
+    - [`CTkRangeSlider`](https://github.com/Akascape/CTkRangeSlider)
+    - [`CTkPopupKeyboard`](https://github.com/Akascape/CTkPopupKeyboard)
+    - [`TkDial`](https://github.com/Akascape/TkDial)
 
 # Repositories
 
