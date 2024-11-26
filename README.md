@@ -131,3 +131,18 @@ Replace the old looking tkMenu and add this new scrollable dropdown menu to cust
 > **AUTHOR**: [Akash Bora](https://github.com/Akascape "Akascape on GitHub").
 
 > **INSTALLATION**: [Installation Info](https://github.com/Akascape/CTkScrollableDropdown?tab=readme-ov-file#installation "Installation Info on CTkScrollableDropdown")
+
+
+## [CTkRangeSlider](https://github.com/Akascape/CTkRangeSlider "CTkRangeSlider on GitHub")
+A range slider widget made for customtkinter.
+
+> [!NOTE]
+> `CTkRangeSlider` is renamed `FTkRangeSlider` for FullGUI.
+
+> **DOCUMENTATION**: [CTkRangeSlider README](https://github.com/Akascape/CTkRangeSlider/blob/main/README.md "README for CTkRangeSlider").
+
+> **LICENSE**: [Creative Commons Zero v1.0 Universal License](https://github.com/Akascape/CTkRangeSlider/blob/main/LICENSE "LICENSE on CTkRangeSlider").
+
+> **AUTHOR**: [Akash Bora](https://github.com/Akascape "Akascape on GitHub").
+
+> **INSTALLATION**: [Installation Info](https://github.com/Akascape/CTkRangeSlider?tab=readme-ov-file#installation "Installation Info on CTkRangeSlider")

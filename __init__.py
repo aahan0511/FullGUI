@@ -72,3 +72,6 @@ from .toolTip import CTkToolTip as FTkToolTip
 # CTkScrollableDropdown | https://github.com/Akascape/CTkScrollableDropdown
 from .scrollableDropdown.scrollableDropdown import CTkScrollableDropdown as FTkScrollableDropdown
 from .scrollableDropdown.scrollableDropdownFrame import CTkScrollableDropdownFrame as FTkScrollableDropdownFrame
+
+# CTkRangeSlider | https://github.com/Akascape/CTkRangeSlider
+from .rangeSlider import CTkRangeSlider as FTkRangeSlider
