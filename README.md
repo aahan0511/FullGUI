@@ -21,6 +21,19 @@ Some methods have used PascalCase instead of Snake_case. For eg. `this_is_a_meth
 
 All widgets have their author mentioned at the bottom of their `__doc__`.
 
+# Contents
+- [Status](#status)
+- [Repositories](#repositories)
+    - [CustomTkinter](#customtkinter)
+    - [CTkMenuBar](#ctkmenubar)
+    - [CTkMessageBox](#ctkmessagebox)
+    - [CTkColorPicker](#ctkcolorpicker)
+    - [CTkTable](#ctktable)
+    - [CTkToolTip](#ctktooltip)
+    - [CTkScrollableDropdown](#ctkscrollabledropdown)
+    - [CTkRangeSlider](#ctkrangeslider)
+    - [CTkPopupKeyboard](#ctkpopupkeyboard)
+
 # Status
 > [!WARNING]
 > This project is still in developent. The repositories added work **perfectly** [refering to how the should], but many repositories have still not been added.
