@@ -43,7 +43,7 @@ All widgets have their author mentioned at the bottom of their `__doc__`.
 > [!WARNING]
 > This project is still in developent. The repositories added work **perfectly** [refering to how the should], but many repositories have still not been added.
 
-# Authors
+# [Authors](https://github.com/aahan0511/FullGUI/graphs/contributors "Contributions by Contributors")
 
 ## [Tom Schimansky](https://github.com/TomSchimansky "TomSchimansky")
 > Python, C, Desktop UI, Machine Learning, RaspberryPi, Robotics, Arduino
