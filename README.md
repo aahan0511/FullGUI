@@ -43,13 +43,32 @@ All widgets have their author mentioned at the bottom of their `__doc__`.
 > [!WARNING]
 > This project is still in developent. The repositories added work **perfectly** [refering to how the should], but many repositories have still not been added.
 
+# Requirements
+```bash
+pip install -r requirements.txt
+```
+
+- customtkinter
+- requests
+- pillow
+- future
+- geocoder
+- pyperclip
+- darkdetect
+- typing-extensions
+- packaging
+- colour
+- av
+
+### For Windows Only
+- pywin32
+
 # [Authors](https://github.com/aahan0511/FullGUI/graphs/contributors "Contributions by Contributors")
 
 ## [Tom Schimansky](https://github.com/TomSchimansky "TomSchimansky")
 > Python, C, Desktop UI, Machine Learning, RaspberryPi, Robotics, Arduino
 
 **Author Of**: [`CustomTkinter`](https://github.com/TomSchimansky/CustomTkinter)
-
 
 ## [Akash Bora](https://github.com/Akascape "Akascape")
 > Loves to make digital art, video effects, useful tools, UI designs, and experimental fun art! Follow me for more awesome projects!
